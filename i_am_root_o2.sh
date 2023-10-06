@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Vamos verificar se a váriavel não está vazia
 if test "$USER" = "root";
 then
